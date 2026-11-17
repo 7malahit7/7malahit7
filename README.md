@@ -34,5 +34,6 @@ Asio and asynchronous networking, sanitizers (ASan, UBSan, TSan), CI, Linux debu
 
 ## Contacts
 
-- Telegram: @NotMalahit
-- Email: ilyalyfar@gmail.com
+[![Telegram](https://img.shields.io/badge/Telegram-@NotMalahit-26A5E4?logo=telegram&logoColor=white)](https://t.me/NotMalahit)
+
+📧 **Email:** ilyalyfar@gmail.com
