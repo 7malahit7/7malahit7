@@ -1,45 +1,38 @@
-# Hi, I'm Ilya 👋
+Hi, I'm Ilya 👋
 
-C++ Developer focused on **game engine**, **desktop**, and **client-server** development.
+Junior C++ developer interested in networking, systems programming and desktop applications. Open to remote work and relocation.
 
 ## About me
 
-- Commercial experience with C++ game engine development
-- Working with existing codebases, debugging, runtime crashes, and feature development
-- Experience with Qt / QML desktop applications
-- TCP/IP client-server applications and JSON-based protocols
+- 8 months of commercial experience working on a C++ game engine
+- Working with an existing large codebase: debugging, runtime crashes, feature development
+- Qt / QML desktop applications
+- TCP/IP client-server applications with JSON-based protocols
 - Windows and Linux development
-- Open-source contributions
+- Open-source contributions (e.g. SPHinXsim)
+- Final-year student, software development (graduating June 2027)
 
 ## Tech stack
 
-**Languages:**  
-C++17/20, C#, JavaScript, Python
+**Languages:** C++17/20 (main), Python (basic)
 
-**C++ / Engine:**  
-Qt, Qt Widgets, Qt Network, Qt Quick / QML, SDL3, Box3D, Jolt Physics, Lua, ImGui, fastgltf, STL
+**Libraries and frameworks:** Qt (Widgets, Network, Quick/QML), STL
 
-**Tools:**  
-CMake, Git, GitHub, Visual Studio, Qt Creator, gdb, Bash
+**Tools:** CMake, Git, GitHub, GDB, Bash, Visual Studio, Qt Creator
 
-**Testing:**  
-GoogleTest, Qt Test
+**Testing:** GoogleTest, Qt Test
 
-## Current work
+**Used in engine work:** SDL3, Jolt Physics, ImGui, Lua
 
-Currently working on a **C++ game engine** in a private repository.
+## Current project
 
-Main areas of work include:
-- input systems
-- physics
-- LOD
-- occlusion culling
-- procedural systems
-- resource management
-- tooling and engine infrastructure
+**StreamLab** (in progress): a C++20 tool that records TCP sessions between a client and a server and replays them as automated tests. Built with Asio, GoogleTest and GitHub Actions CI.
+
+## Learning
+
+Asio and asynchronous networking, sanitizers (ASan, UBSan, TSan), CI, Linux debugging (GDB, strace).
 
 ## Contacts
 
-[![Telegram](https://img.shields.io/badge/Telegram-@NotMalahit-26A5E4?logo=telegram&logoColor=white)](https://t.me/NotMalahit)
-
-📧 **Email:** ilyalyfar@gmail.com
+- Telegram: @NotMalahit
+- Email: ilyalyfar@gmail.com
